@@ -1,0 +1,193 @@
+2024-12-27 14:37:58,681 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 14:37:58,681 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 14:37:59,553 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 14:38:00,959 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 14:38:02,754 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-27 14:56:36,632 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 14:56:36,632 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 14:56:37,573 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 14:56:39,088 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 14:56:40,964 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-27 14:57:04,537 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 14:57:04,537 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 14:57:06,725 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 14:57:12,913 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 14:57:15,666 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-27 14:59:15,280 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 14:59:15,280 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 15:00:02,611 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 15:00:05,036 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 15:02:22,403 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 15:02:22,403 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 15:02:22,719 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 15:02:23,455 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 15:02:24,426 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-27 15:29:58,902 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 15:29:58,914 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 15:30:00,006 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 15:30:01,800 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 15:30:03,683 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-27 15:36:28,617 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 15:36:28,617 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 15:36:30,140 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 15:36:32,022 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 15:36:33,941 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-27 16:40:01,502 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 16:40:01,504 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 16:40:02,451 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 16:40:03,806 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 16:46:10,420 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 16:46:10,420 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 16:46:11,325 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 16:46:12,660 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 16:46:14,581 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-27 17:02:14,073 - root - INFO - ***************Test_002_Login*****************
+2024-12-27 17:02:14,073 - root - INFO - ***************Verifying Login*****************
+2024-12-27 17:04:41,773 - root - INFO - ***************Test_002_Login*****************
+2024-12-27 17:04:41,774 - root - INFO - ***************Verifying Login*****************
+2024-12-27 17:06:28,444 - root - INFO - ***************Test_002_Login*****************
+2024-12-27 17:06:28,444 - root - INFO - ***************Verifying Login*****************
+2024-12-27 17:09:59,068 - root - INFO - ***************Test_002_Login*****************
+2024-12-27 17:09:59,068 - root - INFO - ***************Verifying Login*****************
+2024-12-27 17:10:05,835 - root - INFO - *****Passed****
+2024-12-27 17:10:05,936 - root - INFO - *********Login DDT test passed.........
+2024-12-27 17:13:58,981 - root - INFO - ***************Test_002_Login*****************
+2024-12-27 17:13:58,982 - root - INFO - ***************Verifying Login*****************
+2024-12-27 17:14:05,751 - root - INFO - *****Passed****
+2024-12-27 17:18:09,750 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 17:18:09,750 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 17:18:10,695 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 17:18:11,992 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 17:18:34,069 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 17:18:34,069 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 17:18:34,881 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 17:18:36,241 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 17:22:12,603 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 17:22:12,603 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 17:22:13,507 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 17:22:14,848 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 17:22:16,204 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-27 17:38:10,267 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 17:38:10,267 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 17:38:11,138 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 17:38:12,468 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 17:38:13,787 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-27 17:38:38,825 - root - INFO - ***************Test_002_Login*****************
+2024-12-27 17:38:38,825 - root - INFO - ***************Verifying Login*****************
+2024-12-27 17:38:44,878 - root - INFO - *****Passed****
+2024-12-27 17:41:55,314 - root - INFO - ***************Test_002_Login*****************
+2024-12-27 17:41:55,314 - root - INFO - ***************Verifying Login*****************
+2024-12-27 17:42:01,419 - root - INFO - *****Passed****
+2024-12-27 17:42:07,381 - root - INFO - *****passed****
+2024-12-27 17:42:12,696 - root - INFO - *****passed****
+2024-12-27 17:42:18,046 - root - INFO - *****passed****
+2024-12-27 17:43:25,466 - root - INFO - ***************Test_002_Login*****************
+2024-12-27 17:43:25,466 - root - INFO - ***************Verifying Login*****************
+2024-12-27 17:43:31,676 - root - INFO - *****Passed****
+2024-12-27 17:43:37,705 - root - INFO - *****passed****
+2024-12-27 17:43:43,026 - root - INFO - *****passed****
+2024-12-27 17:43:48,539 - root - INFO - *****passed****
+2024-12-27 17:45:34,498 - root - INFO - ***************Test_002_Login*****************
+2024-12-27 17:45:34,498 - root - INFO - ***************Verifying Login*****************
+2024-12-27 17:45:40,546 - root - INFO - *****Passed****
+2024-12-27 17:45:46,398 - root - INFO - *****passed****
+2024-12-27 17:45:51,625 - root - INFO - *****passed****
+2024-12-27 17:45:56,913 - root - INFO - *****passed****
+2024-12-27 17:45:56,913 - root - INFO - *********Login DDT test passed.........
+2024-12-27 17:45:57,024 - root - INFO - **************End of DDT Tests*****************
+2024-12-27 17:45:57,025 - root - INFO - **************Completed Test_002_Login*****************
+2024-12-27 17:47:30,563 - root - INFO - ***************Test_001_Login*****************
+2024-12-27 17:47:30,563 - root - INFO - ***************Verifying Login Page Title*****************
+2024-12-27 17:47:31,798 - root - INFO - ***************Login Page Title is Passed*****************
+2024-12-27 17:47:33,109 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-27 17:47:34,288 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-27 21:37:56,982 - root - INFO - ***************Test_003_PurchaseProduct*****************
+2024-12-27 21:37:58,722 - root - INFO - ***************Login Successful*****************
+2024-12-27 21:37:58,722 - root - INFO - ***************Starting Product Purchase*****************
+2024-12-27 21:47:36,493 - root - INFO - ***************Test_003_PurchaseProduct*****************
+2024-12-27 21:47:37,742 - root - INFO - ***************Login Successful*****************
+2024-12-27 21:47:37,742 - root - INFO - ***************Starting Product Purchase*****************
+2024-12-27 21:47:38,097 - root - INFO - ***************Provide Address*****************
+2024-12-27 21:53:52,519 - root - INFO - ***************Test_003_PurchaseProduct*****************
+2024-12-27 21:53:53,804 - root - INFO - ***************Login Successful*****************
+2024-12-27 21:53:53,804 - root - INFO - ***************Starting Product Purchase*****************
+2024-12-27 21:53:54,181 - root - INFO - ***************Provide Address*****************
+2024-12-27 21:53:54,879 - root - INFO - ***************Purchase Done*****************
+2024-12-27 21:53:55,071 - root - INFO - ***************Order Message is correct*****************
+2024-12-27 21:53:55,201 - root - INFO - ***************Order has been completed*****************
+2024-12-27 22:20:13,019 - root - INFO - ***************Test_004_GoToProduct*****************
+2024-12-27 22:20:14,400 - root - INFO - ***************Login Successful*****************
+2024-12-27 22:20:14,400 - root - INFO - ***************Go to Product*****************
+2024-12-27 22:20:14,532 - root - INFO - ***************Redirect To Product*****************
+2024-12-27 22:20:14,715 - root - INFO - ***************Product_Details is correct*****************
+2024-12-27 22:20:14,804 - root - INFO - ***************Redirected To Product*****************
+2024-12-27 22:49:07,907 - root - INFO - ***************Test_004_GoToProduct*****************
+2024-12-27 22:49:09,455 - root - INFO - ***************Login Successful*****************
+2024-12-27 22:49:09,455 - root - INFO - *************** Remove Product from Cart*****************
+2024-12-27 22:49:10,005 - root - INFO - ***************Product deleted**** from cart*************
+2024-12-27 22:51:34,060 - root - INFO - ***************Test_004_GoToProduct*****************
+2024-12-27 22:51:35,444 - root - INFO - ***************Login Successful*****************
+2024-12-27 22:51:35,444 - root - INFO - *************** Remove Product from Cart*****************
+2024-12-27 22:51:35,957 - root - INFO - ***************Product deleted**** from cart*************
+2024-12-27 22:51:36,184 - root - INFO - ***************Product_Details is correct*****************
+2024-12-27 22:51:36,319 - root - INFO - ***************Correct Button Name is displaying*****************
+2024-12-28 10:53:36,179 - root - INFO - ***************Test_004_GoToProduct*****************
+2024-12-28 10:53:36,179 - root - INFO - ***************Test_004_GoToProduct*****************
+2024-12-28 10:53:36,179 - root - INFO - ***************Test_004_GoToProduct*****************
+2024-12-28 10:53:36,179 - root - INFO - ***************Test_004_GoToProduct*****************
+2024-12-28 10:53:36,179 - root - INFO - ***************Test_004_GoToProduct*****************
+2024-12-28 10:53:38,018 - root - INFO - ***************Login Successful*****************
+2024-12-28 10:53:38,018 - root - INFO - ***************Login Successful*****************
+2024-12-28 10:53:38,018 - root - INFO - ***************Login Successful*****************
+2024-12-28 10:53:38,018 - root - INFO - ***************Login Successful*****************
+2024-12-28 10:53:38,018 - root - INFO - ***************Login Successful*****************
+2024-12-28 10:53:38,018 - root - INFO - ***************Go to Product*****************
+2024-12-28 10:53:38,018 - root - INFO - ***************Go to Product*****************
+2024-12-28 10:53:38,018 - root - INFO - ***************Go to Product*****************
+2024-12-28 10:53:38,018 - root - INFO - ***************Go to Product*****************
+2024-12-28 10:53:38,018 - root - INFO - ***************Go to Product*****************
+2024-12-28 10:53:38,119 - root - INFO - ***************Redirect To Product*****************
+2024-12-28 10:53:38,119 - root - INFO - ***************Redirect To Product*****************
+2024-12-28 10:53:38,119 - root - INFO - ***************Redirect To Product*****************
+2024-12-28 10:53:38,119 - root - INFO - ***************Redirect To Product*****************
+2024-12-28 10:53:38,119 - root - INFO - ***************Redirect To Product*****************
+2024-12-28 10:53:38,294 - root - INFO - ***************Product_Details is correct*****************
+2024-12-28 10:53:38,294 - root - INFO - ***************Product_Details is correct*****************
+2024-12-28 10:53:38,294 - root - INFO - ***************Product_Details is correct*****************
+2024-12-28 10:53:38,294 - root - INFO - ***************Product_Details is correct*****************
+2024-12-28 10:53:38,294 - root - INFO - ***************Product_Details is correct*****************
+2024-12-28 10:53:38,470 - root - INFO - ***************Redirected To Product*****************
+2024-12-28 10:53:38,470 - root - INFO - ***************Redirected To Product*****************
+2024-12-28 10:53:38,470 - root - INFO - ***************Redirected To Product*****************
+2024-12-28 10:53:38,470 - root - INFO - ***************Redirected To Product*****************
+2024-12-28 10:53:38,470 - root - INFO - ***************Redirected To Product*****************
+2024-12-28 10:53:40,044 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 10:53:40,044 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 10:53:40,044 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 10:53:40,044 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 10:53:40,044 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 10:53:42,108 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 10:53:42,108 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 10:53:42,108 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 10:53:42,108 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 10:53:42,108 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 11:23:57,350 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 11:23:57,350 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 11:23:57,350 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 11:23:57,350 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 11:23:57,350 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 11:23:59,070 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 11:23:59,070 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 11:23:59,070 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 11:23:59,070 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 11:23:59,070 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 11:35:45,941 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 11:35:45,941 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 11:35:45,941 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 11:35:45,941 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 11:35:45,941 - root - INFO - ***************Verifying Home Page Title*****************
+2024-12-28 11:35:47,682 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 11:35:47,682 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 11:35:47,682 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 11:35:47,682 - root - INFO - ***************Home Page Title is Passed*****************
+2024-12-28 11:35:47,682 - root - INFO - ***************Home Page Title is Passed*****************
